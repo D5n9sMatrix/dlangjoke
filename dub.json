@@ -3,6 +3,9 @@
 		"D5n9sMatrix"
 	],
 	"copyright": "Copyright ® 2023, D5n9sMatrix",
+	"dependencies": {
+		"pcat": "~>0.0.4"
+	},
 	"description": "dlang joke mr bin",
 	"license": "MIT",
 	"name": "dlangjoke"
